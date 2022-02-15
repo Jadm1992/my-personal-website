@@ -1,5 +1,5 @@
 body {
-    background-image:linear-gradient(to left, red, yellow);
+    background-image:linear-gradient(to right, #5BADFD, #52C1E3, #66FAF5, #52E3B5, #5BFD9C);
     background-attachment: fixed;
 }
 
@@ -7,4 +7,5 @@ h1 {
     text-align: center;
     font-size: 40px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 30px;
 }
